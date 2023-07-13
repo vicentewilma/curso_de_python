@@ -60,8 +60,8 @@ alunas = {
         "computador": "",
         "": ""
     },
-    "006234852LA041": {
-        "nome": "Wilma Vicente",
+    "008851417LA044": {
+        "nome": "Leandra Alfredo",
         "curso": "Curso de Python",
         "computador": "Code Academy Girls",
         "": ""
